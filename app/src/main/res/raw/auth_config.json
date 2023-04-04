@@ -1,0 +1,11 @@
+{
+  "client_id" : "4ff24603-14cc-4645-bd51-abb67804db53",
+  "redirect_uri" : "com.example.rnauthdemo://oauth/redirect",
+  "broker_redirect_uri_registered": false,
+  "account_mode": "MULTIPLE",
+  "authorities": [{
+    "type": "B2C",
+    "authority_url": "https://emeaalpha.b2clogin.com/tfp/emeaalpha.onmicrosoft.com/b2c_1a_signup_signin_generic",
+    "default": true
+  }]
+}
